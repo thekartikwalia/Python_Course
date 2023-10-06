@@ -1,0 +1,7 @@
+Python IDE comes with an help() option
+It is accessed by writing help() (use 'quit' to exit)
+Then, you can write Topics
+and Enter any topic from Table to learn about it (For eg: LISTS)
+
+2nd way to learn about LISTS is that you can directly type
+help('LISTS')

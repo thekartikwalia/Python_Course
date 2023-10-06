@@ -1,3 +1,5 @@
+# List is a collection of values that can be of same or different datatypes (mutuable)
+
 # SYNTAX FOR DECLARING LIST 
 nums = [25, 12, 36, 95, 14]
 # nums[0] -> 25

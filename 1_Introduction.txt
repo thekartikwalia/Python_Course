@@ -1,0 +1,34 @@
+Python is called General Purpose Language as it can be used in Machine Learning, GUI, Software 
+Development & Web Development
+
+Python is a programming Language
+1. Interpreted
+2. Object-oriented
+3. High-level
+
+Companies using Python
+1. Google
+2. Youtube
+3. Dropbox
+4. Yahoo
+5. NASA
+6. Reddit (Complete build)
+
+Author - Guido Van Rossum
+
+IDE - Integrated Development Environment
+
+Python always gives division result in float datatype
+Integer division (or Floor division) // 
+** -> exponenetial power
+% -> remainder
+
+print('navin's laptop') -> throws error!
+print("navin's laptop") -> doesn't throws error!
+print('navin "laptop"') -> when to print laptop in ""
+print('navin's "laptop"') -> throws error
+print('navin\'s "laptop"') -> doesn't throw error (\ tells compiler to ignore meaning of ')
+10*'navin' -> string gets printed 10 times without gap
+\n -> newline character
+print('c:/navin') -> \n works as it is supposed to
+print(r'c:/navin') -> r means raw string, so \n doesnt works as newline character

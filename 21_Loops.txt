@@ -2,4 +2,11 @@ To repeat same set of statements without re-writing them, we use Loops
 
 TYPES OF LOOPS:
 1. while loop
+    For certain iterations & for certain conditions
+    We specify a condition
 2. for loop
+    It normally works with sequence(list, tuple, string, etc.)
+    Unlike while loop :
+    a   We don't initialize variable
+    b   We don't check condition
+    c   We don't increment/decrement by ourselves (it would be done by for loop itself)

@@ -1,0 +1,5 @@
+To repeat same set of statements without re-writing them, we use Loops
+
+TYPES OF LOOPS:
+1. while loop
+2. for loop

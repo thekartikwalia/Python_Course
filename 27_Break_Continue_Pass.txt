@@ -1,0 +1,18 @@
+continue -> Skips that particular iteration
+break -> Break that loop, won't conitnue with loop
+
+def fun():
+    print("do something")
+If you just want to declare a function but i don't know the content inside of it or maybe i increment 
+it later on, in such a scenario you can simply say pass
+def fun():
+    pass 
+By above code you're saying to python compiler that 
+Hey, i'm simply using this function but i don't know how to implement it, so skip this function
+If you want to keep a function empty, you'll use pass
+Same goes for empty if condition
+Same goes for class also
+Whenever you've a suite (like if, function) & you don't know what we'll have in block, use pass 
+
+We normally use continue or break statements in a function or in a loop
+But when it comes to pass, we normally sue it to skip the block (to define a empty block)

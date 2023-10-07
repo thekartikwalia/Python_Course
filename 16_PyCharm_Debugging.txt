@@ -1,0 +1,2 @@
+Debugging is basic feature of PyCharm IDE
+In PyCharm, we can click on line number to put break point on it, then use Step Over to proceed further

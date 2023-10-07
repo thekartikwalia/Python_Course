@@ -1,0 +1,9 @@
+CPU has basically 3 parts :
+1. CU (Control Unit)
+2. MU (Memory Unit)
+    Stores variables & data
+3. ALU (Arithmetic/Logic Unit)
+    Arithmetic unit performs calculations
+    Logic unit performs thinking of computer
+
+This thinking of computer is basically decided by if statements (tells us about the flow of execution)

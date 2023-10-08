@@ -19,7 +19,7 @@ def fib(n):
                 b = c
 fib(1)
 
-# We want take if user enters a number say 100, then it should print last fibonacci term less than 100
+# If user enters a number say 100, then it should print last fibonacci term less than or equal to 100
 def fib_lastterm(n):
     a = 0 
     b = 1

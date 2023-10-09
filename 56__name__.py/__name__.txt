@@ -1,0 +1,4 @@
+Moment you say __name__, it's very special you know, the value changes, thatswhy it's called variable 
+So, __name__ value changes as per the place we're using it 
+So, if you're running the file as a main code & if you're using __name__, that will print __main__
+But if you print __name__ which is imported as a model, then it will print the module name

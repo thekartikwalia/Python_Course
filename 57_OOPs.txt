@@ -32,3 +32,7 @@ So, in a class you'll write the design of the object
 Hence,
 Class -> Design (or Blue-print) 
 Object -> Instance (or Real entities)
+
+Before creating a object you need to create a class, because class is the design for the object 
+If you don't have design, how can you build something ?
+So, if u want a object, you need to create a class first

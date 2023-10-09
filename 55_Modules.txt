@@ -1,0 +1,14 @@
+If debugging is removing bugs, then coding is adding new bugs 
+
+Instead of writing 1 big software in 1 file, we break it down into small parts  
+
+ADVANTAGES OF BREAKING DOWN INTO MODULES :
+1. If you want to change something in a module,it won't affect the other modules
+2. You can also resuse your modules in other projects as well
+
+
+# I want to peform all mathematical operations on 2 numbers
+# Either you can create 4 functions in this same module or you can create a separate module for all 
+# 4 functions
+
+# That makes more sense making a separate module

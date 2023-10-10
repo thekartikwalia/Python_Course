@@ -1,0 +1,12 @@
+METHOD OVERLOADING :
+It simply means if you've a class and in that class you've 2 method with the same name but different parameters
+or arguments it is called as "Method Overloading"
+Eg: In a class Student, we've 2 methodswith same name, let's say average, one takes 2 parameters & other takes 
+    3 parameters
+But in pythong, we don't have this concept, so we cannot create 2 methods with the same name
+
+METHOD OVERRIDING :
+It simply means you've 2 methods with the same name & same number of parameters or arguments, so that means 
+can we create 2 methods with same name and same parameter in a same class. 
+Ofcourse not! Not in a same class, but let's say you've a concept of inheritance. We've class A and class B,
+and both the class have the same method with same name and same parameter, this is called as "Overriding"

@@ -1,0 +1,16 @@
+When we talk about Polymorphism, it's breaked into words 'Poly' & 'Morphism'
+Poly means 'many' & Morph means 'form'
+So, that means one thing can take multiple forms 
+Eg: Us humans are Polymorphic, we behave differentlty in different surroundings
+In the same way, when you talk about Object Oriented, Objects will have multiple forms 
+So, this concept is very important when you talk about Software Development
+So, we use this concept alot when it comes to Loose Coupling, Dependency Injection
+We also have a concept of interfaces which we'll see later 
+
+THE 4 WAYS OF IMPLEMENTING POLYMORPHISM:
+1. Duck Typing
+2. Operator Overloading 
+3. Method Overloading
+4. Method Overriding
+
+So, Polymorphism is basically 1 thing with multiple forms

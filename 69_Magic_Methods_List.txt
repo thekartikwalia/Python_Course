@@ -1,0 +1,11 @@
+ OPERATOR    |         MAGIC METHODS
+    +        |      __add__(self,other)
+    -        |      __sub__(self,other)
+    *        |      __mul__(self,other)
+    /        |      __div__(self,other)
+    <        |      __lt__(self,other)
+    >        |      __gt__(self,other)
+    >=       |      __ge__(self,other)
+    .        |              .
+    .        |              .
+    .        |              .

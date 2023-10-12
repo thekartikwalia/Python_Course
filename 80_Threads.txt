@@ -1,0 +1,35 @@
+WHAT ARE THREADS ?
+They are essentially the smallest unit of execution within a program. You can think of a thread 
+as a lightweight, independent subtask or unit of work within a larger program. 
+Threads allow a program to perform multiple operations concurrently, which can improve 
+performance and responsiveness in various applications.
+
+
+WHY DO WE NEED THREADS ?
+1. Parallelism: 
+    Threads enable a program to execute multiple tasks simultaneously, taking full advantage of 
+    multi-core processors. This parallelism can significantly improve the performance of 
+    applications that have tasks that can be executed independently, like handling multiple user 
+    requests in a web server or performing complex calculations.
+2. Responsiveness: 
+    In applications with graphical user interfaces (GUIs), using threads for time-consuming 
+    operations can prevent the interface from becoming unresponsive. For example, a separate 
+    thread can be used to perform background processing while the main thread continues to 
+    handle user interactions.
+3. Resource Utilization: 
+    Threads allow efficient utilization of system resources. They can be used to efficiently 
+    manage resources like CPU time, memory, and I/O operations. For instance, one thread can 
+    perform disk I/O while another processes data in memory.
+4. Modularity: 
+    Threads enable developers to break down complex tasks into smaller, manageable units of work. 
+    This can make code more modular and easier to understand, maintain, and debug.
+5. Asynchronous Operations: 
+    Threads can be used to perform asynchronous operations, such as handling events or waiting 
+    for external input. This is crucial for applications that need to react to unpredictable 
+    events in a timely manner.
+6. Efficiency: 
+    Threads are lightweight, meaning they require less overhead than creating separate processes. 
+    They share memory space, making it easier to share data between threads.
+
+
+Let's try to build our own threads in the upcoming code!

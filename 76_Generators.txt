@@ -1,0 +1,20 @@
+Earlier we've talked about iterators so normally we use iterators to print or to fetch 1 value 
+at a time, say if u've list of values and if u want 1 by 1 value what makes sense is to use an
+iterator, but there are small issues with iterators, the 1st one you need to get the iterator 
+where you have to define those 2 functions next and iter. We don't wanna do it, we want Python 
+to do it for us & that's where Python says okay if u want iterators we will give you generators
+
+
+We not exactly have 2 different concepts 
+Generators will give you iterators, our job is done!
+
+BUT HOW EXACTLY TO CREATE A GENERATOR ?
+
+
+WHY SOMEONE WILL USE GENERATOR?
+Let's say you're fetching 1000 records from a database, so when you say you're fetching 1000
+records maybe you want to print all or you want to process soemthing from those records.
+So, when you say you want to fetch 1000 records, all this 1000 records will be lowering your
+memory, we don't want that. Maybe you want to work with 1 value at a time. In that case, you can
+use generator instead of fetching the entire list, you can fetch 1 by 1 value, so that's 
+something you can do with generator

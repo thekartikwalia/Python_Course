@@ -1,0 +1,38 @@
+TYPES OF ERRORS:
+1. Compile time
+    Syntax errors are called compile time errors because you'll be creating those errors 
+    at compile time
+2. Logical
+    Your code is working, there's nothign wrong with syntax. Let's say you created program to
+    add 2 nos but instad result it's showing is of substraction, that's a logical eroor.
+    In logcial error, you're code gets compiled & it also gives the output but the problem is
+    it'll not be the correct output.
+3. Run time 
+    In Runtime error, your code gets compiled but along with that there's no synatx error 
+    Your code is not actually giving you a Logical error as well, everything's working. 
+    Sometimes if a user might gave a wrong input, eg: let's say you're dividing 2 numbers and 
+    if suer says 6 and 0, you cannot divide a number by 0, that's where it'll give you an 
+    error, that is not a compiletime error bcoz the code is containing compile property, not 
+    a logical error bcoz for normal execution it works, it's not working for specific input.
+    That's your runtime erro bcoz you're getting error at runtime.
+
+
+Out of this which is the most easiest error to find, the COMPILE TIME error bcoz the compiler
+itself (at the developer level) at the developer side itself we're getting errors. 
+
+LOGICAL errors are also easy to handle bcoz as a developer we also test the application or 
+we've a specific testing team for that, so we too test the software for different bugs. Logical
+eroors normally comes under bugs as well.
+
+RUNTIME error, the mistake is not done by you, the mistake is done by the user. So if you're 
+saying hey user enter 2 values & in your mind you've that a user will not enter a zero value 
+for the second one but the user is doing that. Maybe this application is using such a file from 
+a C drive, so it was working from last 7 days and today morning user has deleted that file &
+now if you open, the application will give u error bcoz it's not able to find the file, so all
+this things comes under runtime error.
+
+
+As a developer, you also have to understand what mistakes a user can do.
+
+Main point is even if you're getting the error your execution should not stop 
+That's our main logic here

@@ -33,3 +33,8 @@ WHY DO WE NEED THREADS ?
 
 
 Let's try to build our own threads in the upcoming code!
+
+
+ADVANTAGE OF THREADS :
+1. You can use multiple cores 
+2. You can execute things simultaneously 

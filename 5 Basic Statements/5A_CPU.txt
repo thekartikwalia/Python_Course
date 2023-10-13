@@ -6,4 +6,4 @@ CPU has basically 3 parts :
     Arithmetic unit performs calculations
     Logic unit performs thinking of computer
 
-This thinking of computer is basically decided by if statements (tells us about the flow of execution)
+The thinking of computer is basically decided by if statements (tells us about flow of execution)

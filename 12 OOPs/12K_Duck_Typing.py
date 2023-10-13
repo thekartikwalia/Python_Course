@@ -9,6 +9,7 @@
 
 
 
+
 x = 5
 # In Python, we've a concept of Dynamic Typing which simply means the type you can mention later
 # Eg: when you say x=5, they type we're mentioning now is integer

@@ -10,7 +10,7 @@
 # 7. Range 
 # 8. Dictionary
 
-# Everyhting from List to Range comes under Sequence
+# Everyhting from List to Range comes under category called "SEQUENCE"
 
 a = 5.6
 b = int(a) # Put int value of a in b 

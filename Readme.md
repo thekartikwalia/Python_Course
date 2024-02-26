@@ -183,8 +183,6 @@ To use the Python_Course repository, you need to clone it to your local machine.
     python path/to/your_script.py
     ```
 
-Feel free to customize these instructions based on your project's specific requirements. Provide any additional details or considerations users may need to know for a smooth installation and usage experience.
-
 
 ## License
 

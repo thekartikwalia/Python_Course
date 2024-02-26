@@ -134,6 +134,58 @@ Your efforts in enhancing the content, fixing bugs, or suggesting improvements w
 
 For major changes or additions, it's advisable to discuss them first by opening an issue to ensure alignment with the goals of the repository.
 
+## Installation
+
+To use the Python_Course repository, you need to clone it to your local machine. Follow these steps:
+
+1. Open a terminal or command prompt.
+
+2. Navigate to the directory where you want to clone the repository:
+
+    ```bash
+    cd /path/to/your/directory
+    ```
+
+3. Clone the repository by running the following command:
+
+    ```bash
+    git clone https://github.com/Kartik-Walia/Python_Course.git
+    ```
+
+4. Change into the cloned directory:
+
+    ```bash
+    cd Python_Course
+    ```
+
+## Usage
+
+1. Ensure you have Python installed on your machine. If not, download and install it from [python.org](https://www.python.org/downloads/).
+
+2. (Optional) Create and activate a virtual environment to keep your project dependencies isolated:
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
+    ```
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Explore the repository content and navigate to the topic of interest using the provided folders.
+
+5. Run specific Python scripts or examples as needed:
+
+    ```bash
+    python path/to/your_script.py
+    ```
+
+Feel free to customize these instructions based on your project's specific requirements. Provide any additional details or considerations users may need to know for a smooth installation and usage experience.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

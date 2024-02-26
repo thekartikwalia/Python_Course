@@ -1,0 +1,139 @@
+# Python_Course
+
+Welcome to the Python_Course repository! This repository serves as a comprehensive resource for learning Python, structured into various topics and subtopics. The content is enriched with comments, explanations, and examples, making it an ideal resource for both beginners and intermediate Python developers.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Operators](#operators)
+3. [Number Systems](#number-systems)
+4. [Debugging](#debugging)
+5. [Basic Statements](#basic-statements)
+6. [Loops](#loops)
+7. [Arrays](#arrays)
+8. [Numpy](#numpy)
+9. [Functions](#functions)
+10. [Modules](#modules)
+11. [__name__](#__name__)
+12. [OOPs](#oops)
+13. [Iterators & Generators](#iterators--generators)
+14. [Exception Handling](#exception-handling)
+15. [Threading](#threading)
+16. [Contribution](#contribution)
+
+## Topics Covered
+
+### 1. Introduction
+- Variables
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Help option
+- More on variables
+- Datatypes
+- User input
+
+### 2. Operators
+- Basic operators
+- Swapping 2 variables
+- Bitwise operators
+- Math functions
+
+### 3. Number Systems
+- Number systems and conversion
+
+### 4. Debugging
+- PyCharm Debugging
+
+### 5. Basic Statements
+- CPU
+- If-else statements
+- Elif statements
+
+### 6. Loops
+- Loops
+- While loop
+- For loop
+- Break, continue, pass
+- For-else
+- Patterns
+- Prime numbers
+
+### 7. Arrays
+- Typecodes
+- Array
+
+### 8. Numpy
+- Introduction to NumPy
+- Creation of NumPy arrays
+- Array operations
+- Copy array
+- Multi-dimensional array
+- Matrix
+- Matrix operations
+
+### 9. Functions
+- Functions
+- Arguments
+- Types of arguments
+- Kwargs
+- Global and local variables
+- Pass list to function
+- Fibonacci sequence
+- Factorial
+- Recursion
+- Factorial recursion
+- Lambda functions
+- Lambda applications
+- Decorators
+
+### 10. Modules
+
+### 11. __name__
+
+### 12. OOPs
+- OOPs introduction
+- Class and object
+- Constructor
+- Types of variables
+- Types of methods
+- Inner class
+- Inheritance
+- Constructor in inheritance
+- Polymorphism
+- Duck typing
+- Magic methods
+- Magic methods list
+- Operator overloading
+- Method overloading
+- Method overriding
+- Abstract class and method
+
+### 13. Iterators & Generators
+- Iterators
+- Generators
+
+### 14. Exception Handling
+
+### 15. Threading
+- Threads
+- Multithreading
+
+## Contribution
+
+Your contributions are highly valued and welcomed! If you find any room for improvement, identify issues, or have new content to add, please consider contributing to this repository. To contribute:
+
+1. Fork the repository to your GitHub account.
+2. Create a new branch with a descriptive name for your contribution.
+3. Make your changes, ensuring clarity and adhering to the existing style guide.
+4. Test your changes thoroughly.
+5. Submit a pull request, explaining the purpose and details of your contribution.
+
+Your efforts in enhancing the content, fixing bugs, or suggesting improvements will help maintain and improve the quality of this educational resource. Thank you for your contribution!
+
+For major changes or additions, it's advisable to discuss them first by opening an issue to ensure alignment with the goals of the repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

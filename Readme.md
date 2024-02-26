@@ -4,7 +4,7 @@ Welcome to the Python_Course repository! This repository serves as a comprehensi
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#1-introduction)
 2. [Operators](#operators)
 3. [Number Systems](#number-systems)
 4. [Debugging](#debugging)

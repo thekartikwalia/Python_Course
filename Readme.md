@@ -10,7 +10,7 @@ Welcome to the Python_Course repository! This repository serves as a comprehensi
 4. [Debugging](#4-debugging)
 5. [Basic Statements](#5-basic-statements)
 6. [Loops](#6-loops)
-7. [Arrays](#7-arrays)
+7. [Arrays]
 8. [Numpy](#8-numpy)
 9. [Functions](#9-functions)
 10. [Modules](#10-modules)

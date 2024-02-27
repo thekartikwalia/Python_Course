@@ -2,7 +2,7 @@
 
 Welcome to the Python_Course repository! This repository serves as a comprehensive resource for learning Python, structured into various topics and subtopics. The content is enriched with comments, explanations, and examples, making it an ideal resource for both beginners and intermediate Python developers.
 
-## Table of Contents
+<!-- ## Table of Contents
 
 1. [Introduction](#1-introduction)
 2. [Operators](#2-operators)
@@ -10,7 +10,7 @@ Welcome to the Python_Course repository! This repository serves as a comprehensi
 4. [Debugging](#4-debugging)
 5. [Basic Statements](#5-basic-statements)
 6. [Loops](#6-loops)
-7. [Arrays]
+7. [Arrays](#7-arrays)
 8. [Numpy](#8-numpy)
 9. [Functions](#9-functions)
 10. [Modules](#10-modules)
@@ -18,7 +18,24 @@ Welcome to the Python_Course repository! This repository serves as a comprehensi
 12. [OOPs](#12-oops)
 13. [Iterators & Generators](#13-iterators--generators)
 14. [Exception Handling](#14-exception-handling)
-15. [Threading](#15-threading)
+15. [Threading](#15-threading) -->
+## Table of Contents
+
+1. Introduction
+2. Operators
+3. Number Systems
+4. Debugging
+5. Basic Statements
+6. Loops
+7. Arrays
+8. Numpy
+9. Functions
+10. Modules
+11. __name__
+12. OOPs
+13. Iterators & Generators
+14. Exception Handling
+15. Threading
 <!-- 
 ## Topics Covered
 

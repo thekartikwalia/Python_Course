@@ -19,7 +19,7 @@ Welcome to the Python_Course repository! This repository serves as a comprehensi
 13. [Iterators & Generators](#13-iterators--generators)
 14. [Exception Handling](#14-exception-handling)
 15. [Threading](#15-threading)
-
+<!-- 
 ## Topics Covered
 
 ### 1. Introduction
@@ -117,7 +117,7 @@ Welcome to the Python_Course repository! This repository serves as a comprehensi
 
 ### 15. Threading
 - Threads
-- Multithreading
+- Multithreading -->
 
 ## Contribution
 
